@@ -1,5 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=KIMSEONKU's%20profile&height=200&fontSize=80&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=KIMSEONKU's%20highub)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunssstar)](https://github.com/sunssstar/github-readme-stats)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=sunssstar&show_icons=true&theme=radical)](https://github.com/sunssstar)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunssstar&theme=nord_dark)
